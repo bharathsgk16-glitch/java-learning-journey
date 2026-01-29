@@ -125,7 +125,13 @@ else if - multiple condition it will give
 * while loop - it not fixed it iterations
 * do-while loop - Executes at least once (even if condition false)
 
-Whast is oops concept and the types?
+What is Array and explain it ?
+Arrays are used to multi values in single variable
+and same data type ,uisng continous memory locations,access using indexes and fixed size
+- Stored in Heap memory
+- They are objects
+- can sotre in primitive or obj references start with obj references
+What is oops concept and the types?
 there are seven types
 1. Class
 - Its the blueprint of object 
