@@ -86,13 +86,32 @@ like name age salary and they store in java.util.Scanner
 - nextLine() - full sentence
 
 
-Which we use psvm(stri arg) what is about and hwo we use
+Which we use psvm(stri arg) what is about and how we use ?
 
+What is operator and types ?
+Operator use to perform spcific tasks and then use of mathematical operations
+- Arithmetic operator :
+pre-increment
+double increment ++var//if 11 it will increase to 12
+post-increment
+var++//if 11 it will show 11 but that value printed then give 12
+pre-decrement
+post-decrement//same vice but minus
+- Assignment operator
+Assigning the value ex: int i=11 i+=2 i-=3;//i=i+2
+- Arithmetic operator
+Simple mathematic operation
+- Relational operator-comparing the value like < > <= >= ==
+- Bitwise operator
+- Logical operator (&&-both conditon true ||-any one condition is true)
+- Ternary operator(contion? value1:value2)
 
-
-
-
-
+what is type casting?
+Converting the one datatype to another
+- Widening(Implicit)-Automatic
+Small to Big ex:int a=12; double b=a;
+- Narrowing (Explicit)- Manual
+Big-small data loss
 
 
 Whast is oops concept and the types?
