@@ -27,12 +27,12 @@ public class operators {
 //        System.out.println(bc);//14
         //typecasting
 
-        int value=123;
-        double i=value;
-        System.out.println(i);
-        double dc=1234.3532;
-        int in=dc;
-        System.out.println(in);
+//        int value=123;
+//        double i=value;
+//        System.out.println(i);
+//        double dc=1234.3532;
+//        int in=dc;
+//        System.out.println(in);
 
 
     }

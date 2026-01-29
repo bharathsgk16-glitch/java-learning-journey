@@ -113,6 +113,17 @@ Small to Big ex:int a=12; double b=a;
 - Narrowing (Explicit)- Manual
 Big-small data loss
 
+What the condition statement?
+its flow of programing
+- condition statment:
+if - one condition 
+if else - one condition or last statment
+else if - multiple condition it will give
+- Loops (repeat work automatically)
+  A loop executes a block of code multiple times until a condition fails.
+* for loop-when you know how many times can excute
+* while loop - it not fixed it iterations
+* do-while loop - Executes at least once (even if condition false)
 
 Whast is oops concept and the types?
 there are seven types
